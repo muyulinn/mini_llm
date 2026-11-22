@@ -1,0 +1,16 @@
+# Python 虚拟环境
+.venv/
+
+# Python 自动生成的缓存
+__pycache__/
+*.py[cod]
+
+# 本机编辑器配置
+.vscode/
+
+# 原始数据和处理后的数据
+data/
+
+# 模型检查点和运行日志
+checkpoints/
+logs/
